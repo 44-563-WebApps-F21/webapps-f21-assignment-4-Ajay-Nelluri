@@ -20,4 +20,26 @@ p:hover {
     background-color:springgreen;
     color: rgb(91,158, 91);
 }
+
+.FIRST_CITIZEN {
+    color: rgb(145,78, 223);
+}
+
+.SECOND_CITIZEN {
+    color: rgb(134,158, 180);
+}
+
+.THIRD_CITIZEN {
+    color: rgb(34,68, 143);
+}
+
+.TIPSTAFF {
+    color: rgb(191,133, 91);
+}
   
+#tableStyle{
+    border-style: dashed;
+    border-color:rgb(125, 165, 118);
+    text-align: center;
+    margin: 25px 0px 0px 350px;
+}
